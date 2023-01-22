@@ -7,7 +7,7 @@
 
 - ⚡ Yo : **It's not a bug,<img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" height="5%" width="5%"/> it's an undocumented feature!**
 
-- Connect with me **sandev.net@gmail.com** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/>
+- Connect with me **sandev.net@gmail.com** <img src="https://media1.giphy.com/media/K0XHQRUgkpRlRmkvll/giphy.gif?cid=790b7611e3fb9fadfc44059e3281435b2ea2553d73baddbc&rid=giphy.gif&ct=s" width="5%" height="5%"/>
 
 
 <p align="left">
