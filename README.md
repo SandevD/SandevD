@@ -2,11 +2,8 @@
 <h3 align="center">Building the future, one line of code at a time !</h3>
 
 - 🔭 I’m currently working **@Zuse Technologies**
-
 - 🌱 I’m currently learning **almost everything I can get my hands on.**
-
 - 📫 Connect with me **sandev.net@gmail.com**
-
 - ⚡ Yo : **It's not a bug, it's an undocumented feature!**
 
 <h3 align="left">Connect with me:</h3>
