@@ -9,7 +9,7 @@
 
 - 📫 Connect with me **sandev.net@gmail.com**
 
-- ⚡<img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp"/> Yo : **It's not a bug, it's an undocumented feature!**
+- <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" height="10%" width="10%"/> ⚡ Yo : **It's not a bug, it's an undocumented feature!**
 
 
 <p align="left">
