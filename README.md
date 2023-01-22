@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/y_4aZBELqosAAAAi/bongo-cat.gif" width="5%" height="5%"/>, I'm a Full-stack web developer</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" width="5%" height="5%"/>, I'm a Full-stack web developer</h1>
 <h3 align="center">Building the future, one line of code at a time !</h3>
 
 - 🔭 I’m currently working **@Zuse Technologies**
