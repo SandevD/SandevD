@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Full-stack developer and open-source enthusiast</h1>
 <h3 align="center">Building the future, one line of code at a time !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandevd" alt="sandevd" /></a> </p>
-
 - 🔭 I’m currently working **@Zuse Technologies**
 
 - 🌱 I’m currently learning **almost everything I can get my hands on.**
