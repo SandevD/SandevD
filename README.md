@@ -12,7 +12,6 @@
 - ⚡ Yo : **It's not a bug, it's an undocumented feature!**
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
