@@ -1,7 +1,7 @@
 <h1 align="center">Hi, <img src="https://media4.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif?cid=790b7611085cc85000b0bd3d5bbd3e7346d87fdb6155c09b&rid=giphy.gif&ct=g" width="5%" height="5%"/> I'm a Full-stack web developer</h1>
 <h3 align="center">Building the future, one line of code at a time !</h3>
 
-- 🔭 I’m currently working **@Zuse Technologies**
+- <img src="https://media3.giphy.com/media/H59XwE8tzGm6k6BN98/giphy.gif?cid=790b7611bb0ce0ec7171672d9d6a40a0be1933ce54eb0bcf&rid=giphy.gif&ct=s" height="3%" width="3%"/> I’m currently working **@Zuse Technologies**
 
 - 🌱 I’m currently learning **almost everything I can get my hands on.**
 
