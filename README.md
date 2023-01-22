@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **almost everything I can get my hands on.**
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="3%" height="3%"/> Connect with me **sandev.net@gmail.com**
-
 - <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" height="10%" width="10%"/> ⚡ Yo : **It's not a bug, it's an undocumented feature!**
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/> Connect with me **sandev.net@gmail.com**
 
 
 <p align="left">
