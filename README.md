@@ -9,7 +9,7 @@
 
 - <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" height="10%" width="10%"/> ⚡ Yo : **It's not a bug, it's an undocumented feature!**
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/> Connect with me **sandev.net@gmail.com**
+- Connect with me **sandev.net@gmail.com** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/>
 
 
 <p align="left">
