@@ -1,7 +1,5 @@
-<h1 align="center">Hi <img src="https://64.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif" height="5%" width="5%"/>, I'm a Full-stack web developer</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="5%" height="5%"/>, I'm a Full-stack web developer</h1>
 <h3 align="center">Building the future, one line of code at a time !</h3>
-<div align="center"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="50%" height="50%"/></div>
-
 
 - 🔭 I’m currently working **@Zuse Technologies**
 
