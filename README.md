@@ -5,7 +5,7 @@
 - 🔭 I’m currently working **@Zuse Technologies**
 - 🌱 I’m currently learning **almost everything I can get my hands on.**
 - 📫 Connect with me **sandev.net@gmail.com**
-- ⚡ Yo : **It's not a bug, it's an undocumented feature!**
+- ⚡ Yo : **It's not a bug, it's an undocumented feature!**:sunglasses:animated
 
 
 <h3 align="left">Connect with me:</h3>
