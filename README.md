@@ -9,7 +9,7 @@
 
 - Connect with me **sandev.net@gmail.com** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandevD&theme=tokyonight&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandevD&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 </p>
