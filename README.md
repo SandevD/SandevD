@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=tokyonight" alt="sandevd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandevd&" alt="sandevd" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt)](https://git.io/streak-stats)</p>
 
