@@ -8,7 +8,7 @@
 <p align="center">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"></h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
