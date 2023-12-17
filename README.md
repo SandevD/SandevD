@@ -51,5 +51,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko&layout=compact" alt="sandevd" /></p>
 
-<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=200&type=svg&background-type=solid&properties=background" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=250&type=svg&background-type=solid&properties=background" alt="GitHub Streak" /></a></p>
 
