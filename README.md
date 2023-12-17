@@ -51,4 +51,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko&layout=compact" alt="sandevd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandevD&layout=compact&theme=merko"/></p>
+<p align="left"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt" alt="GitHub Streak" /></p>
