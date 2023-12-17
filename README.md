@@ -49,7 +49,8 @@
 
 <p align="center"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko&layout=compact&card_width=300" alt="sandevd" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko&layout=compact&card_width=300" alt="sandevd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 <p><a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=400&type=svg&background-type=solid&properties=background" alt="GitHub Streak" /></a></p>
 
