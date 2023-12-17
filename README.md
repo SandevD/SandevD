@@ -5,10 +5,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sandevD&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-</p>
+<p align="center"></p>
 
-<h3 align="center"></h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -18,6 +16,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
+<p align="center"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=cobalt" alt="sandevd" /></p>
 
