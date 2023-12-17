@@ -5,14 +5,6 @@
 
 <h3 align="center">Building the future, one line of code at a time !</h3> 
 
-- <img src="https://media3.giphy.com/media/H59XwE8tzGm6k6BN98/giphy.gif?cid=790b7611bb0ce0ec7171672d9d6a40a0be1933ce54eb0bcf&rid=giphy.gif&ct=s" height="2%" width="2%"/> I’m currently working **@Zuse Technologies**
-
-- 🌱 An enthusiast in learning frameworks like Laravel, NextJs, Angular and more.
-
--  Yo : **It's not a bug,<img src="https://media1.giphy.com/media/K0XHQRUgkpRlRmkvll/giphy.gif?cid=790b7611e3fb9fadfc44059e3281435b2ea2553d73baddbc&rid=giphy.gif&ct=s" height="3%" width="3%"/> it's an undocumented feature!**
-
-- Connect with me **sandev.net@gmail.com** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" width="5%" height="5%"/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sandevD&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
