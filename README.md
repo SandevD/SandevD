@@ -52,6 +52,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko&layout=compact&card_width=300" alt="sandevd" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandevD&layout=compact&theme=merko"/>
-
+<p align="center"></p>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=459&type=svg&background-type=solid&properties=background" alt="GitHub Streak" /></a></p>
 
