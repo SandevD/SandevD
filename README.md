@@ -1,6 +1,59 @@
 <h1 align="center">Hi, <img src="https://media4.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif?cid=790b7611085cc85000b0bd3d5bbd3e7346d87fdb6155c09b&rid=giphy.gif&ct=g" width="5%" height="5%"/> I'm a Full-stack web developer</h1>
 <h3 align="center">Building the future, one line of code at a time !</h3> 
 
+type Str = &'static str;
+
+#[derive(Debug)]
+enum Principle { SOLID, DRY, KISS, YAGNI, OPPA_GANGNAM_STYLE }
+
+#[derive(Debug)]
+struct Stack {
+    languages: Vec<Str>,
+    libs_and_frameworks: Vec<Str>,
+    devops: Vec<Str>,
+    databases: Vec<Str>,
+}
+
+#[derive(Debug)]
+struct Profile {
+    name: Str,
+    from: Str,
+    current_in: Str,
+    principles: Vec<Principle>,
+    tech: Stack,
+}
+
+fn main() -> () {
+
+    let profile = Profile {
+        name: "Rafael Milewski",
+        from: "Brazil",
+        current_in: "China",
+        principles: vec![ Principle::SOLID, Principle::DRY, Principle::YAGNI, Principle::KISS ],
+        tech: Stack {
+            languages: vec![ "HTML/CSS", "Typescript", "PHP", "Dart", "Rust" ],
+            databases: vec![ "Redis", "MySQL", "Meilisearch", "MongoDB", "SurrealDB" ],
+            libs_and_frameworks: vec![
+                "Vue.js", "React", "Svelte",
+                "Webpack", "Vite", "Tailwind", "SASS",
+                "Three.js", "Pixi.js",
+                "Nuxt", "Next", "Nodejs",
+                "Flutter", "NativeScript",
+                "Laravel", "Nova", "GraphQL",
+            ],
+            devops: vec![
+                "Linux", "Docker + Swarm", "Caddy", "Traefik", "Terraform",
+                "CD/CI (Github Actions, Dagger, Drone)",
+                "Monitoring (TICK Stack)",
+                "Cloud Hosting (Alibaba Cloud, GCP, AWS, Vultr, DO)",
+            ],
+        },
+    };
+
+    println!("Hi, thanks for checking out my {:#?}", profile);
+
+}
+
 - <img src="https://media3.giphy.com/media/H59XwE8tzGm6k6BN98/giphy.gif?cid=790b7611bb0ce0ec7171672d9d6a40a0be1933ce54eb0bcf&rid=giphy.gif&ct=s" height="2%" width="2%"/> I’m currently working **@Zuse Technologies**
 
 - 🌱 An enthusiast in learning frameworks like Laravel, NextJs, Angular and more.
