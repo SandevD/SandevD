@@ -24,7 +24,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>Laravel</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-original.svg">
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
             </td>
         </tr>
         <tr valign="top">
