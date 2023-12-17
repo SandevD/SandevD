@@ -37,7 +37,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
+            <span><strong>VueJs</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
             <td width="80px" align="center">
             <span><strong>Canva</strong></span><br>
