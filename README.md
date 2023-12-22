@@ -52,4 +52,4 @@
 <p><img align="left" src="https://github-readme-stats-sooty-psi.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko" alt="sandevd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sooty-psi.vercel.app/api/top-langs?username=sandevD&show_icons=true&locale=en&theme=merko"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sandevD&theme=cobalt" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sandev.vercel.app?user=sandevD&theme=cobalt" alt="GitHub Streak" /></p>
