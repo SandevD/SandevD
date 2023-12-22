@@ -52,4 +52,4 @@
 <p><img align="left" src="https://github-readme-stats-sooty-psi.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko" alt="sandevd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sooty-psi.vercel.app/api/top-langs?username=sandevD&show_icons=true&locale=en&theme=merko"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt" alt="GitHub Streak" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt)](https://git.io/streak-stats)</p>
