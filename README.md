@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center" style="padding-bottom: 0.75em !important;">Hi, <img src="https://media4.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif?cid=790b7611085cc85000b0bd3d5bbd3e7346d87fdb6155c09b&rid=giphy.gif&ct=g" width="5%" height="5%"/> I'm a full-stack software engineer</h1>
 
-[![trophy](https://github-readme-stats-sooty-psi.vercel.app/?username=sandevD&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandevd-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"></p>
 
