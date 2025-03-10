@@ -55,5 +55,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt)](https://git.io/streak-stats)
 
-[![An image of @sandevd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandevd)](https://holopin.io/@sandevd)
-
