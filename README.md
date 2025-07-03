@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://sandev.me/wp-content/uploads/2023/12/Sandev-2.png" alt="Sandev Dullewa" />
+  Sandev Dullewa
 </h1>
 <h1 align="center" style="padding-bottom: 0.75em !important;">Hi, <img src="https://media4.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif?cid=790b7611085cc85000b0bd3d5bbd3e7346d87fdb6155c09b&rid=giphy.gif&ct=g" width="5%" height="5%"/> I'm a full-stack software engineer</h1>
 
