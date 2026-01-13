@@ -3,8 +3,6 @@
 </h1>
 <h1 align="center" style="padding-bottom: 0.75em !important;">Hi, <img src="https://media4.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif?cid=790b7611085cc85000b0bd3d5bbd3e7346d87fdb6155c09b&rid=giphy.gif&ct=g" width="5%" height="5%"/> I'm a Senior Software Engineer</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandevd&theme=flat&column=5&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center"></p>
 
 <table width="320px">
@@ -49,9 +47,7 @@
 
 <p align="center"></p>
 
-<p><img align="left" src="https://github-readme-stats-sooty-psi.vercel.app/api?username=sandevD&show_icons=true&locale=en&theme=merko" alt="sandevd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sooty-psi.vercel.app/api/top-langs?username=sandevD&show_icons=true&locale=en&theme=merko"/></p>
-
+[![Sandev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandevD)](https://github.com/SandevD/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt)](https://git.io/streak-stats)
 
