@@ -22,7 +22,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>Laravel</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
             </td>
         </tr>
         <tr valign="top">
@@ -47,7 +47,7 @@
 
 <p align="center"></p>
 
-[![Sandev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandevD)](https://github.com/SandevD/github-readme-activity-graph)
+[![Sandev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandevD&theme=github-compact)]
 
 [![GitHub Streak](https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt)](https://git.io/streak-stats)
 
