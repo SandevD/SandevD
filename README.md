@@ -47,7 +47,7 @@
 
 <p align="center"></p>
 
-[Sandev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandevD&theme=github-compact)
+[![Sandev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandevD&theme=github-compact)
 
 [![GitHub Streak](https://github-readme-streak-stats-kohl-mu.vercel.app?user=sandevD&theme=cobalt)](https://git.io/streak-stats)
 
